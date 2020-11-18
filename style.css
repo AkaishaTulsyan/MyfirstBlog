@@ -102,3 +102,14 @@ a{
     color: darkcyan;
     text-shadow: 2px 2px gainsboro;
 }
+.links:hover{
+    font-size: 25px;
+    text-decoration: underline;
+}
+#writings a{
+    text-decoration: underline  !important;
+    text-shadow: none !important;
+}
+.contact_1 h3{
+    display: inline;
+}
